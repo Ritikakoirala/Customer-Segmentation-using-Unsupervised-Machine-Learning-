@@ -71,5 +71,4 @@ The dataset contains customer-related attributes such as:
 
 
 
-## 📎 Reference
-- GeeksforGeeks – Unsupervis
+
