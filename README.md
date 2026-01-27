@@ -20,9 +20,6 @@ The implementation is inspired by a **GeeksforGeeks tutorial** and uses a **real
 - **Algorithm:** KMeans Clustering  
 - **Learning Type:** Unsupervised Learning  
 - **Distance Metric:** Euclidean Distance  
-
----
-
 ## 📊 Dataset Description
 The dataset contains customer-related attributes such as:
 - Customer ID  
